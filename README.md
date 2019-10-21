@@ -5,3 +5,9 @@ A sort of sensationalist reporting, counterfeit news epitomizes bits of news tha
 # Project Overview
 
 In this python project of detecting fake news deals with fake and real news. Using sklearn, we build a TfidfVectorizer on our dataset. Then, we initialize a PassiveAggressive Classifier and fit the model. In the end, the accuracy score and the confusion matrix tell us how well our model fares.
+
+# Dataset
+
+The dataset for the project can be downloaded from the drive :
+
+https://drive.google.com/open?id=1IvlySu5iQQxN8Q__EDvcAM2m-_Hj_ims
